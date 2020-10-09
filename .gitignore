@@ -1,0 +1,13 @@
+#Ignore tex additional files
+*.aux
+*.log
+
+#Ignore doc reports
+*.docx
+
+#Ignore executable files
+*.out
+
+#Ignore link of .h files
+*.h.gch
+
